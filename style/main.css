@@ -2,8 +2,9 @@
 html, body {
     margin: 0;
     padding: 0;
-    background: #faf8ef;
-    color: #776e65;
+    background-image: url('../img/bg.gif');
+	background-size: 10%;
+    color: white;
     font-family: "Clear Sans", Helvetica Neue, Arial, sans-serif;
     font-size: 18px;
 }
@@ -68,7 +69,9 @@ h1.title {
 .best-container {
     position: relative;
     display: inline-block;
-    background: #bbada0;
+    background-image: url('../img/bg2.gif');
+	background-size: 100%;
+	background-position: center;
     padding: 15px 25px;
     font-size: 25px;
     height: 25px;
@@ -185,7 +188,10 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #bbada0;
+
+    background-image: url('../img/bg2.gif');
+	background-size: 100%;
+	background-position: center;
     border-radius: 6px;
     width: 500px;
     height: 500px;
@@ -279,7 +285,7 @@ hr {
     margin-right: 15px;
     float: left;
     border-radius: 3px;
-    background: rgba(238, 228, 218, 0.35);
+    background: rgba(238, 228, 218, 0.5);
 }
 
 .grid-cell:last-child {
@@ -430,75 +436,75 @@ hr {
 
 .tile.tile-2 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/vinnyofngtvnews.jpeg');
-    background-size: cover;
+    background-image: url('../img/vinnyofngtvnews.gif');
+    background-size: 100% 100%;
 }
 
 .tile.tile-4 .tile-inner {
     font-size: 0px;
     background-image: url('../img/alextwintowers.jpeg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-8 .tile-inner {
     font-size: 0px;
     background-image: url('../img/cheesestickrowan.jpeg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-16 .tile-inner {
     font-size: 0px;
     background-image: url('../img/freakysonic.gif');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-32 .tile-inner {
     font-size: 0px;
     background-image: url('../img/brickshots.jpeg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-64 .tile-inner {
     font-size: 0px;
     background-image: url('../img/tampon.jpeg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-128 .tile-inner {
     font-size: 0px;
     background-image: url('../img/ball.jpeg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-256 .tile-inner {
     font-size: 0px;
     background-image: url('../img/ejaculatedtogether.jpeg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-512 .tile-inner {
     font-size: 0px;
     background-image: url('../img/archibald.png');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-1024 .tile-inner {
     font-size: 0px;
     background-image: url('../img/pheet.jpeg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-2048 .tile-inner {
     font-size: 0px;
     background-image: url('../img/unicole.jpeg');
     /* use ../img/pumpkin-cupcake.jpg for fall */
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .tile.tile-super .tile-inner {
     font-size: 0px;
     background-image: url('../img/arturmogranheaven.jpeg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 @-webkit-keyframes appear {
@@ -648,11 +654,13 @@ hr {
 
 .restart-button {
     display: inline-block;
-    background: #8f7a66;
+    background-image: url('../img/bg2.gif');
+	background-size: 100%;
+	background-position: center;
     border-radius: 3px;
     padding: 0 20px;
     text-decoration: none;
-    color: #f9f6f2;
+    color: white;
     height: 40px;
     line-height: 42px;
     display: block;
