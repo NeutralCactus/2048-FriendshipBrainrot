@@ -431,74 +431,74 @@ hr {
 .tile.tile-2 .tile-inner {
     font-size: 0px;
     background-image: url('../img/vinnyofngtvnews.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-4 .tile-inner {
     font-size: 0px;
     background-image: url('../img/alextwintowers.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-8 .tile-inner {
     font-size: 0px;
     background-image: url('../img/cheesestickrowan.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-16 .tile-inner {
     font-size: 0px;
     background-image: url('../img/freakysonic.gif');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-32 .tile-inner {
     font-size: 0px;
     background-image: url('../img/brickshots.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-64 .tile-inner {
     font-size: 0px;
     background-image: url('../img/tampon.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-128 .tile-inner {
     font-size: 0px;
     background-image: url('../img/ball.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-256 .tile-inner {
     font-size: 0px;
     background-image: url('../img/ejaculatedtogether.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-512 .tile-inner {
     font-size: 0px;
     background-image: url('../img/archibald.png');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-1024 .tile-inner {
     font-size: 0px;
     background-image: url('../img/pheet.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-2048 .tile-inner {
     font-size: 0px;
     background-image: url('../img/unicole.jpeg');
     /* use ../img/pumpkin-cupcake.jpg for fall */
-    background-size: cover;
+    background-size: stretch;
 }
 
 .tile.tile-super .tile-inner {
     font-size: 0px;
     background-image: url('../img/arturmogranheaven.jpeg');
-    background-size: cover;
+    background-size: stretch;
 }
 
 @-webkit-keyframes appear {
