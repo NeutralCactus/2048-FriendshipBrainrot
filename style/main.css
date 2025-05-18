@@ -832,7 +832,7 @@ hr {
         margin-right: 10px;
         float: left;
         border-radius: 3px;
-        background: rgba(25, 228, 25, 0.35);
+        background: rgba(25, 228, 25, 0.5);
     }
     
     .grid-cell:last-child {
